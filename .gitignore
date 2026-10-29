@@ -1,0 +1,10 @@
+target/
+data/
+.tools/
+.idea/
+.cursor/
+*.iml
+*.db
+.classpath
+.project
+.settings/
